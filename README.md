@@ -18,6 +18,7 @@
    <img align="center" alt="LT-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="right" alt="ligiapic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/916509490319327322/956409561626079252/picasion.com_f1de8437dd63d438f89d673a0a04d826.gif">
 </div>
+  
   ##
   
 <div> 
