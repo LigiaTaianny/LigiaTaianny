@@ -19,8 +19,6 @@
   <img align="right" alt="ligiapic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/916509490319327322/956409561626079252/picasion.com_f1de8437dd63d438f89d673a0a04d826.gif">
 </div>
   
-  ##
- 
 <div> 
   <a href="https://www.youtube.com/c/Likottaa/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ligiataianny/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
