@@ -1,4 +1,11 @@
 ## __Seja bem-vindo, eu sou Lígia Taianny!__
+Técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO (2019). 
+
+Estudante do curso de Licenciatura de Genética e Biotecnologia na Universidade de Trás-os-Montes e Alto Douro - UTAD em Portugal. 
+
+Estudante do curso de Bacharel em Sistemas de Informação - Universidade Estácio de Sá - Brasil.
+
+Sou desenvolvedora há mais de 2 anos e possuo experiências em Java, JavaScript, HTML, CSS, Python, MySQL e Android Studio.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ligiataianny&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
