@@ -1,8 +1,8 @@
 ## __Seja bem-vindo, eu sou Lígia Taianny!__
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Ligia Taianny">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ligiataianny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiataianny&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiataianny&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
