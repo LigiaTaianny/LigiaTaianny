@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/Ligia Taianny">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ligiataianny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiataianny&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiataianny&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +18,7 @@
    <img align="center" alt="LT-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="right" alt="ligiapic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/916509490319327322/956409561626079252/picasion.com_f1de8437dd63d438f89d673a0a04d826.gif">
 </div>
+  ##
   
 <div> 
   <a href="https://www.youtube.com/c/Likottaa/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
