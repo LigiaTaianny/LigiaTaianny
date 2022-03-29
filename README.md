@@ -1,4 +1,4 @@
-## __Seja bem-vindo, eu sou Lígia Taianny!!__
+## __Seja bem-vindo, eu sou Lígia Taianny!__
 Técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO (2019). 
 
 Estudante do curso de Licenciatura de Genética e Biotecnologia na Universidade de Trás-os-Montes e Alto Douro - UTAD em Portugal. 
